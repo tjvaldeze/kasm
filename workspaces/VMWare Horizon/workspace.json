@@ -1,0 +1,20 @@
+{
+  "friendly_name": "VMWare Horizon",
+  "image_src": "vmware-horizon.png",
+  "description": "This Image contains a browser-accessible version of VMWare Horizon Client",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Productivity"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ],
+  "name": "kasmweb/vmware-horizon:1.11.0-rolling"
+}
