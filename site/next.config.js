@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Khaos Adventures LLC Technologies',
+    description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://tjvaldeze.github.io/kasm',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
